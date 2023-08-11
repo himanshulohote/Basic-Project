@@ -1,2 +1,3 @@
 hi friends
 learn git and github
+understand push and pull
